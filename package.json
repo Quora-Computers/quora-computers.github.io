@@ -1,0 +1,16 @@
+{
+  "name": "quora-comp-web-site",
+  "version": "0.0.1",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "miguel v.",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.25",
+    "bootstrap": "^5.3.3",
+    "coffeescript": "^2.7.0"
+  }
+}
